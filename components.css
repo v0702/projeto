@@ -96,8 +96,8 @@ footer > p
 {
 text-align: center;
 }
-footer > details
+.gallery_footer
 {
-text-align: right;
+position: static;
 }
 /**/
