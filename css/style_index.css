@@ -1,0 +1,14 @@
+article
+{
+background-color: red;
+float: left;
+display: inline-block;
+text-align: center;
+}
+aside
+{
+background-color: green;
+float: right;
+display: inline-block;
+text-align: center;
+}
