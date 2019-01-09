@@ -1,0 +1,26 @@
+article
+{
+float: left;
+display: inline-block;
+text-align: center;
+font-family: "Arial Black", Gadget, sans-serif;
+height: auto;
+width: auto;
+max-width: 100%;
+background-image: url(../img/background_article.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+}
+aside
+{
+background-color: green;
+float: right;
+display: inline-block;
+text-align: center;
+font-family: "Arial Black", Gadget, sans-serif;
+}
+iframe
+{
+width: 90%;
+}
