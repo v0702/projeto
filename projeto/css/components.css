@@ -1,3 +1,27 @@
+html
+{
+  scroll-behavior: smooth;
+}
+aside a:link
+{
+color: blue;
+text-decoration: none;
+}
+aside a:visited
+{
+color: blue;
+text-decoration: none;
+}
+aside a:hover
+{
+color: darkred;
+text-decoration: none;
+}
+aside a:active
+{
+color: black;
+text-decoration: none;
+}
 /*Title*/
 header
 {
@@ -88,14 +112,14 @@ display: block;
 /*Footer*/
 footer
 {
+
 border: solid;
 border-color: lightgrey;
 position: fixed;
-width: 100%;
 bottom: 0;
+width: 100%;
 background-color: grey;
 color: white;
-height: 10%;
 }
 footer > p
 {

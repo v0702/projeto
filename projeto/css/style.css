@@ -6,6 +6,11 @@
 {
 	width: 100%;
 }
+iframe
+{
+width: 90%;
+height: 90%;
+}
 @media only screen and (min-width: 600px)/*Tablets*/
 {
 	.col-s-1 {width: 8.33%;}
@@ -20,6 +25,11 @@
 	.col-s-10 {width: 83.33%;}
 	.col-s-11 {width: 91.66%;}
 	.col-s-12 {width: 100%;}
+	iframe
+	{
+	width: 90%;
+	height: 90%;
+	}
 }
 @media only screen and (min-width: 768px)/*Desktop*/
 {
@@ -35,4 +45,9 @@
 	.col-10 {width: 83.33%;}
 	.col-11 {width: 91.66%;}
 	.col-12 {width: 100%;}
+	iframe
+	{
+	width: 70%;
+	height: 280px;
+	}
 }

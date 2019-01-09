@@ -11,16 +11,17 @@ background-image: url(../img/background_article.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 color: white;
+min-height: 1200px;
+margin-bottom: 100px;
+text-shadow: 2px 2px black;
 }
 aside
 {
-background-color: green;
+background-color: lightgrey;
 float: right;
 display: inline-block;
 text-align: center;
 font-family: "Arial Black", Gadget, sans-serif;
-}
-iframe
-{
-width: 90%;
+min-height: 1200px;
+margin-bottom: 100px;	
 }
